@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             // porównanie Tabli i List
-            //Tablica();
-            //Console.WriteLine();
-            //Listy();
+            Tablica();
+            Console.WriteLine();
+            Listy();
 
             // Tworzenie listy piłkarzy
             List<Pilkarz> pilkarze = new List<Pilkarz>();
